@@ -1,0 +1,4 @@
+#define FW_VERSION      "1.5.1"
+#define FW_DATE         "Sept 3rd, 2026"
+#define FW_AUTHOR       "Mike Zhao (EtonTech)"
+#define FW_HARDWARE     "TV-B-Gone Gen8 (ESP32-C3)"
