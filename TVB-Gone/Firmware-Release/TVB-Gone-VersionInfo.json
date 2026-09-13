@@ -1,6 +1,6 @@
 {
-  "FW_VERSION": "1.6.0",
-  "FW_DATE": "Sept 11th, 2026",
+  "FW_VERSION": "1.6.1",
+  "FW_DATE": "Sept 13th, 2026",
   "FW_AUTHOR": "Mike Zhao (EtonTech)",
   "FW_HARDWARE": "TV-B-Gone Gen8 (ESP32-C3)"
 }
